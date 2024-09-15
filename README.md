@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogeshhm
-- 🧑‍🎓 Pursing Mca at EWCM, completing in Nov 2024.
-- 👀 I’m interested in Website Building and playing with data.
+- 🧑‍🎓 Pursuing Mca at EWCM, completing in Nov 2024.
+- 👀 I have a passion for Website Building and playing with data.
 - 🌱 I’m currently learning Fullstack Web Development.
 - 📫 How to reach me Linkedin www.linkedin.com/in/yogeshhm
 - ⚡ Fun fact: I love futuristic technology, cars and bikes.
