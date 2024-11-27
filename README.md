@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yogeshhm
-- 🧑‍🎓 Pursuing Mca at EWCM, completing in Nov 2024.
+- 🧑‍🎓 Pursuing Mca at EWCM, completing in Dec 2024.
 - 👀 I have a passion for Website Building and playing with data.
 - 🌱 I’m currently learning Fullstack Web Development.
 - 📫 How to reach me Linkedin www.linkedin.com/in/yogeshhm
