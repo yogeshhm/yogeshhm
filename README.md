@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Yogesh H M 👋</h1>
 
 <p align="center">
-  <em>Software Engineer @ Buildacre</em>
+  <em>Software Engineer @ BuildAcre</em>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 💼 Working as a **Software Engineer at Buildacre**
+- 💼 Working as a **Software Engineer at BuildAcre**
 - 🎓 Completed **MCA at EWCM** (Dec 2024)
 - 💻 Passionate about **crafting web applications** and **playing with data**
 - ⚡ Fun fact: I love **futuristic technology, cars & bikes**
@@ -17,7 +17,7 @@
 
 ### 🚀 What I'm Up To
 
-- 🏗️ Building and shipping features at **Buildacre**
+- 🏗️ Building and shipping features at construction management production level softwares.
 - 📊 Exploring data — turning raw numbers into meaningful insights
 - 🛠️ Always tinkering with something new in tech
 
@@ -47,19 +47,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshhm&show_icons=true&theme=tokyonight&hide_border=true" alt="Yogesh's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshhm&theme=tokyonight&hide_border=true" alt="Yogesh's Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogeshhm&style=flat-square&color=blue" alt="Profile views"/>
-  <br/>
-  <em>"The best way to predict the future is to invent it." – Alan Kay</em>
-</p>
