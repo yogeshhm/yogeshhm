@@ -1,17 +1,16 @@
 <h1 align="center">Hi there, I'm Yogesh H M 👋</h1>
 
 <p align="center">
-  <em>Software Engineer @ Buildacre · Full Stack Web Dev · Data Explorer</em>
+  <em>Software Engineer @ Buildacre</em>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 💼 Working as a **Software Engineer at [Buildacre](https://buildacre.in)**
+- 💼 Working as a **Software Engineer at Buildacre**
 - 🎓 Completed **MCA at EWCM** (Dec 2024)
-- 💻 Passionate about **Website Building** and **playing with data**
-- 🌱 Continuously growing in **Full Stack Web Development**
+- 💻 Passionate about **crafting web applications** and **playing with data**
 - ⚡ Fun fact: I love **futuristic technology, cars & bikes**
 
 ---
@@ -39,10 +38,11 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
